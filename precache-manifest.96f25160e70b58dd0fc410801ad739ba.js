@@ -76,12 +76,12 @@ self.__precacheManifest = [
     "url": "/static/media/greycliff-cf-medium-oblique.4a4a8526.woff2"
   },
   {
-    "revision": "698b8e8ad08daca024907862c67c1aba",
-    "url": "/static/media/greycliff-cf-medium.698b8e8a.woff2"
-  },
-  {
     "revision": "3992ab5caf684c3d3b6c3b27f1bc11da",
     "url": "/static/media/greycliff-cf-heavy-oblique.3992ab5c.woff2"
+  },
+  {
+    "revision": "698b8e8ad08daca024907862c67c1aba",
+    "url": "/static/media/greycliff-cf-medium.698b8e8a.woff2"
   },
   {
     "revision": "c6c62cfb4f58af7e0f845e8763f89b62",
