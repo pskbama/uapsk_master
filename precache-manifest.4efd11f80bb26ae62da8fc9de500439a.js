@@ -52,24 +52,24 @@ self.__precacheManifest = [
     "url": "/uapsk_master/static/media/fontawesome-webfont.fee66e71.woff"
   },
   {
-    "revision": "674f50d287a8c48dc19ba404d20fe713",
-    "url": "/uapsk_master/static/media/fontawesome-webfont.674f50d2.eot"
-  },
-  {
     "revision": "b06871f281fee6b241d60582ae9369b9",
     "url": "/uapsk_master/static/media/fontawesome-webfont.b06871f2.ttf"
+  },
+  {
+    "revision": "674f50d287a8c48dc19ba404d20fe713",
+    "url": "/uapsk_master/static/media/fontawesome-webfont.674f50d2.eot"
   },
   {
     "revision": "912ec66d7572ff821749319396470bde",
     "url": "/uapsk_master/static/media/fontawesome-webfont.912ec66d.svg"
   },
   {
-    "revision": "4a4a852666bf9cfc96d799fe29ac6a37",
-    "url": "/uapsk_master/static/media/greycliff-cf-medium-oblique.4a4a8526.woff2"
-  },
-  {
     "revision": "61e3771a56f5071074800582eee2aa8c",
     "url": "/uapsk_master/static/media/greycliff-cf-regular.61e3771a.woff2"
+  },
+  {
+    "revision": "4a4a852666bf9cfc96d799fe29ac6a37",
+    "url": "/uapsk_master/static/media/greycliff-cf-medium-oblique.4a4a8526.woff2"
   },
   {
     "revision": "e81954821d70987b4878c538ea099a63",
