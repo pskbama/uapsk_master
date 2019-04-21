@@ -2,7 +2,7 @@
   "name": "website",
   "version": "0.1.0",
   "private": true,
-  "____homepage": "https://phi-sigma-kappa.github.io/uapsk/",
+  "homepage": "https://phi-sigma-kappa.github.io/uapsk/",
   "dependencies": {
     "aos": "^2.2.0",
     "bootstrap": "^4.0.0-beta",
@@ -22,7 +22,7 @@
   },
   "scripts": {
     "predeploy": "npm run build",
-    "deploy": "cp -a ./sober ./build && cp ./CNAME ./build && gh-pages -d build",
+    "deploy": "cp -a ./sober ./build && cp ./build && gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
