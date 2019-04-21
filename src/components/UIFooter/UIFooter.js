@@ -41,7 +41,7 @@ const UIFooter = () => (
           <b className="text-uppercase">James Corley - UMD</b>
         </a>
       </h6>
-      <h6> Adapted for UA use by <br />
+      <h6> Adapted for UA by <br />
           <b className="text-uppercase">Jared Haynie</b>
       </h6>
       <br />
