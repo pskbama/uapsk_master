@@ -64,20 +64,20 @@ self.__precacheManifest = [
     "url": "/uapsk_master/static/media/fontawesome-webfont.912ec66d.svg"
   },
   {
-    "revision": "61e3771a56f5071074800582eee2aa8c",
-    "url": "/uapsk_master/static/media/greycliff-cf-regular.61e3771a.woff2"
+    "revision": "e81954821d70987b4878c538ea099a63",
+    "url": "/uapsk_master/static/media/greycliff-cf-regular-oblique.e8195482.woff2"
   },
   {
     "revision": "4a4a852666bf9cfc96d799fe29ac6a37",
     "url": "/uapsk_master/static/media/greycliff-cf-medium-oblique.4a4a8526.woff2"
   },
   {
-    "revision": "e81954821d70987b4878c538ea099a63",
-    "url": "/uapsk_master/static/media/greycliff-cf-regular-oblique.e8195482.woff2"
-  },
-  {
     "revision": "698b8e8ad08daca024907862c67c1aba",
     "url": "/uapsk_master/static/media/greycliff-cf-medium.698b8e8a.woff2"
+  },
+  {
+    "revision": "61e3771a56f5071074800582eee2aa8c",
+    "url": "/uapsk_master/static/media/greycliff-cf-regular.61e3771a.woff2"
   },
   {
     "revision": "3992ab5caf684c3d3b6c3b27f1bc11da",
