@@ -72,12 +72,12 @@ self.__precacheManifest = [
     "url": "/static/media/greycliff-cf-regular.61e3771a.woff2"
   },
   {
-    "revision": "698b8e8ad08daca024907862c67c1aba",
-    "url": "/static/media/greycliff-cf-medium.698b8e8a.woff2"
-  },
-  {
     "revision": "3992ab5caf684c3d3b6c3b27f1bc11da",
     "url": "/static/media/greycliff-cf-heavy-oblique.3992ab5c.woff2"
+  },
+  {
+    "revision": "698b8e8ad08daca024907862c67c1aba",
+    "url": "/static/media/greycliff-cf-medium.698b8e8a.woff2"
   },
   {
     "revision": "4a4a852666bf9cfc96d799fe29ac6a37",
@@ -88,20 +88,20 @@ self.__precacheManifest = [
     "url": "/static/media/greycliff-cf-heavy.c6c62cfb.woff2"
   },
   {
-    "revision": "12de22f1ee5f34725430a44a534a4778",
-    "url": "/static/media/greycliff-cf-heavy.12de22f1.ttf"
-  },
-  {
     "revision": "48239b86bb25236aad0180938d08eddd",
     "url": "/static/media/greycliff-cf-medium.48239b86.ttf"
   },
   {
-    "revision": "701dcddf7ff185ca2e0351aaafb2b1c4",
-    "url": "/static/media/greycliff-cf-heavy-oblique.701dcddf.ttf"
+    "revision": "12de22f1ee5f34725430a44a534a4778",
+    "url": "/static/media/greycliff-cf-heavy.12de22f1.ttf"
   },
   {
     "revision": "e6663caec42a0c60fb5948b6edd2cbac",
     "url": "/static/media/greycliff-cf-regular.e6663cae.ttf"
+  },
+  {
+    "revision": "701dcddf7ff185ca2e0351aaafb2b1c4",
+    "url": "/static/media/greycliff-cf-heavy-oblique.701dcddf.ttf"
   },
   {
     "revision": "a47eec90300fc687f64ba41d29a307ca",
