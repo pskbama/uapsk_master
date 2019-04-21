@@ -1,7 +1,7 @@
 import React from 'react'
 import App from '../../components/App'
 import './HomePage.css'
-import logo from './OD-logo.svg'
+import logo from './OD1-logo.svg'
 
 export default class HomePage extends React.Component {
   render() {
