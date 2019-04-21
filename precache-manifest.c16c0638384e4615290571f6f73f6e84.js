@@ -52,12 +52,12 @@ self.__precacheManifest = [
     "url": "/static/media/fontawesome-webfont.fee66e71.woff"
   },
   {
-    "revision": "b06871f281fee6b241d60582ae9369b9",
-    "url": "/static/media/fontawesome-webfont.b06871f2.ttf"
-  },
-  {
     "revision": "674f50d287a8c48dc19ba404d20fe713",
     "url": "/static/media/fontawesome-webfont.674f50d2.eot"
+  },
+  {
+    "revision": "b06871f281fee6b241d60582ae9369b9",
+    "url": "/static/media/fontawesome-webfont.b06871f2.ttf"
   },
   {
     "revision": "912ec66d7572ff821749319396470bde",
@@ -68,12 +68,12 @@ self.__precacheManifest = [
     "url": "/static/media/greycliff-cf-regular-oblique.e8195482.woff2"
   },
   {
-    "revision": "4a4a852666bf9cfc96d799fe29ac6a37",
-    "url": "/static/media/greycliff-cf-medium-oblique.4a4a8526.woff2"
+    "revision": "61e3771a56f5071074800582eee2aa8c",
+    "url": "/static/media/greycliff-cf-regular.61e3771a.woff2"
   },
   {
-    "revision": "c6c62cfb4f58af7e0f845e8763f89b62",
-    "url": "/static/media/greycliff-cf-heavy.c6c62cfb.woff2"
+    "revision": "4a4a852666bf9cfc96d799fe29ac6a37",
+    "url": "/static/media/greycliff-cf-medium-oblique.4a4a8526.woff2"
   },
   {
     "revision": "698b8e8ad08daca024907862c67c1aba",
@@ -84,8 +84,8 @@ self.__precacheManifest = [
     "url": "/static/media/greycliff-cf-heavy-oblique.3992ab5c.woff2"
   },
   {
-    "revision": "61e3771a56f5071074800582eee2aa8c",
-    "url": "/static/media/greycliff-cf-regular.61e3771a.woff2"
+    "revision": "c6c62cfb4f58af7e0f845e8763f89b62",
+    "url": "/static/media/greycliff-cf-heavy.c6c62cfb.woff2"
   },
   {
     "revision": "48239b86bb25236aad0180938d08eddd",
@@ -104,12 +104,12 @@ self.__precacheManifest = [
     "url": "/static/media/greycliff-cf-heavy-oblique.701dcddf.ttf"
   },
   {
-    "revision": "a47eec90300fc687f64ba41d29a307ca",
-    "url": "/static/media/greycliff-cf-regular-oblique.a47eec90.ttf"
-  },
-  {
     "revision": "a535856ca075361b77f9e35494d7c35b",
     "url": "/static/media/greycliff-cf-medium-oblique.a535856c.ttf"
+  },
+  {
+    "revision": "a47eec90300fc687f64ba41d29a307ca",
+    "url": "/static/media/greycliff-cf-regular-oblique.a47eec90.ttf"
   },
   {
     "revision": "779a85bef415b2bb353e7b87cb20c826",
