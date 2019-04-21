@@ -8,17 +8,17 @@ const UIFooter = () => (
     <Container className="social">
       <Row>
         <Col md="4">
-          <a href="https://twitter.com/uaphisig" target="_blank" rel="noopener noreferrer">
+          <a href="https://twitter.com/PSK_UMD" target="_blank" rel="noopener noreferrer">
             <span className="fa fa-3x fa-twitter"></span>
           </a>
         </Col>
         <Col md="4">
-          <a href="https://www.instagram.com/uaphisig/" target="_blank" rel="noopener noreferrer">
+          <a href="https://www.instagram.com/psk_umd/" target="_blank" rel="noopener noreferrer">
             <span className="fa fa-3x fa-instagram"></span>
           </a>
         </Col>
         <Col md="4">
-          <a href="https://www.facebook.com/uapskod/" target="_blank" rel="noopener noreferrer">
+          <a href="https://www.facebook.com/umd.psk/" target="_blank" rel="noopener noreferrer">
             <span className="fa fa-3x fa-facebook"></span>
           </a>
         </Col>
@@ -26,10 +26,10 @@ const UIFooter = () => (
     </Container>
     <Container fluid className="contact">
       <span className="fa fa-2x fa-map-marker" />
-      <h5><b>501 Jefferson Ave</b></h5>
-      <h5>Tuscaloosa, AL 35487</h5>
+      <h5><b>2 Fraternity Row</b></h5>
+      <h5>College Park, MD 20742</h5>
       <br />
-      <a href="mailto:jghaynie@crimson.ua.edu" target="_top">
+      <a href="mailto:umdpsk.president@gmail.com" target="_top">
         <span className="fa fa-2x fa-envelope"></span>
         <h5>Contact Us</h5>
       </a>
@@ -38,13 +38,9 @@ const UIFooter = () => (
       <a href="https://phisigmakappa.org/"><img src={logo} alt='Nationals' /></a>
       <h6> Website made by <br />
         <a href="https://github.com/jwcorle" target="_blank" rel="noopener noreferrer">
-          <b className="text-uppercase">James Corley - UMD</b>
+          <b className="text-uppercase">James Corley</b>
         </a>
       </h6>
-      <h6> Adapted by <br />
-          <b className="text-uppercase">Jared Haynie</b>
-      </h6>
-      <br />
       <h5> © 2019 <b>PHI SIGMA KAPPA</b></h5>
     </Container>
   </Container>

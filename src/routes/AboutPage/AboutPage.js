@@ -17,7 +17,6 @@ export default class About extends React.Component {
 
             <Col md={{ size: 6, offset: 1 }} xs='12' data-aos='fade-left'>
               <h1> Mission Statement </h1>
-              <b />
               <p> <b className='red'>Phi Sigma Kappa</b> is a lifelong brotherhood dedicated to the <em>betterment of the individual</em>, the university community, and our world, by giving its members opportunities to <b>develop leadership skills</b>, participate in service to others, achieve <b>academic excellence</b>, experience cultural diversity and practice <b>personal integrity</b>. </p>
             </Col>
           </Row>
@@ -26,7 +25,6 @@ export default class About extends React.Component {
           <Row>
             <Col md={{ size: 8, offset: 2 }}>
               <h1> The Phi Sigma Kappa Creed </h1>
-              <br />
               <p> In the firm conviction that my Fraternity demands of me a life of <b>Faith</b> and <b>Purpose</b>. </p>
               <p> I hereby solemnly declare <b>My Faith</b> in the wisdom and love of God; in the dignity and worth of my fellowmen; in the strength and beauty of true <b>Fraternity</b>; in the history and future of my Country; and in the traditions and program of my Alma Mater. </p>
               <p> Henceforward, therefore, it shall be <b>My Purpose</b> to remain forever true to this, my fraternity's faith in me and in turn to preserve and promote courageously and unselfishly the chosen ideals of our mutual affection and common endeavor. </p>
@@ -39,7 +37,6 @@ export default class About extends React.Component {
           <Row>
             <Col md={{ size: 8, offset: 2 }}>
               <h1> Our Cardinal Principles </h1>
-              <br />
               <h3><b>To Promote Brotherhood</b> </h3>
               <p>Justice, harmony, and brotherly love are essential to the spirit of fraternity. We promise to set an example of true brotherhood not only in our relations with each other, but in our association with people everywhere.</p>
               <h3><b>To Stimulte Scholarship</b> </h3>

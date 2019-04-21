@@ -13,8 +13,8 @@ export default class UINav extends React.PureComponent {
     this.toggle = this.toggle.bind(this);
     this.state = {
       isOpen: false,
-      title1: "Phi Sigma Kappa",
-      title2: "Omicron Deuteron Chapter",
+      title1: "Phi Sig UMD",
+      title2: "ETA Chapter",
       phiSigSrc: rPhiSig
     };
   }
@@ -33,9 +33,9 @@ export default class UINav extends React.PureComponent {
   updateDimensions(first) {
     if (this.refs.navbar || first) { // https://stackoverflow.com/q/34544314/8327287
       if (window.innerWidth > 420 && !(window.innerWidth > 767 && window.innerWidth < 845)) {
-        this.setState({title1: "Phi Sigma Kappa", title2: "Omicron Deuteron"});
+        this.setState({title1: "Phi Sig UMD", title2: "ETA Chapter"});
       } else {
-        this.setState({title1: "UA PHI SIG", title2: "OD Chapter"});
+        this.setState({title1: "Phi Sig", title2: "ETA"});
       }
     }
   }
@@ -59,7 +59,7 @@ export default class UINav extends React.PureComponent {
           <NavbarToggler right onClick={this.toggle} />
           <NavbarBrand className="abs">
             {this.state.title1}
-            <img src={logo} alt='OD Chapter'/>
+            <img src={logo} alt='ETA Chapter'/>
             {this.state.title2}
           </NavbarBrand>
           <Collapse isOpen={this.state.isOpen} navbar>
@@ -99,4 +99,3 @@ export default class UINav extends React.PureComponent {
     );
   }
 }
-
