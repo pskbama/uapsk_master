@@ -20,12 +20,12 @@
     "react-transition-group": "^1.2.0",
     "reactstrap": "^4.8.0"
   },
-  "scripts": {    
-   "start": "react-scripts start",
-   "predeploy": "yarn run build",
-   "deploy": "gh-pages -d build",
-   "build": "react-scripts build",
-   "test": "react-scripts test",
-   "eject": "react-scripts eject"
+  "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "cp -a ./sober ./build && cp ./CNAME ./build && gh-pages -d build",
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
 },
 }
