@@ -29,7 +29,7 @@ const UIFooter = () => (
       <h5><b>501 Jefferson Ave</b></h5>
       <h5>Tuscaloosa, AL 35487</h5>
       <br />
-      <a href="mailto:jghaynie@crimson.ua.edu" target="_top">
+      <a href="mailto:pskbama@gmail.com" target="_top">
         <span className="fa fa-2x fa-envelope"></span>
         <h5>Contact Us</h5>
       </a>
@@ -41,7 +41,7 @@ const UIFooter = () => (
           <b className="text-uppercase">James Corley - UMD</b>
         </a>
       </h6>
-      <h6> Adapted by <br />
+      <h6> Adapted for UA use by <br />
           <b className="text-uppercase">Jared Haynie</b>
       </h6>
       <br />
