@@ -1,7 +1,7 @@
 {
   "name": "website",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "____homepage": " https://pskbama.github.io/uapsk_master",
   "dependencies": {
     "aos": "^2.2.0",
