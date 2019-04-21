@@ -2,7 +2,7 @@
   "name": "website",
   "version": "0.1.0",
   "private": true,
-  "homepage": " https://pskbama.github.io/uapsk_master",
+  "homepage": " https://pskbama.github.io",
   "dependencies": {
     "aos": "^2.2.0",
     "bootstrap": "^4.0.0-beta",
